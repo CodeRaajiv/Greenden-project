@@ -22,6 +22,7 @@ Greenden is a modern and responsive plant shop landing page built using HTML, Ta
 
  📁 Folder Structure
  greenden/
+ 
 ├── index.html
 
 ├── /css
@@ -36,6 +37,7 @@ Greenden is a modern and responsive plant shop landing page built using HTML, Ta
 If you'd like to connect or provide feedback:
 
 LinkedIn:www.linkedin.com/in/raajivg
+
 Email:raajivraajiv417@gmail.com
 
 
