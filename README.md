@@ -3,7 +3,7 @@
 Greenden is a modern and responsive plant shop landing page built using HTML, Tailwind CSS, and JavaScript. This project showcases a clean UI design for an online store that can be used as a template for e-commerce or plant-related websites.
 
  🚀 Live Demo
-
+ 🖇https://coderaajiv.github.io/Greenden-project/
 
 🛠️ Tech Stack
 
